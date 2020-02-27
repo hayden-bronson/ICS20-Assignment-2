@@ -1,0 +1,52 @@
+body {
+  background-color: Black;
+}
+
+h1 {
+  color: lightblue;
+  margin-left: 20px;
+  font-family: cursive;
+  font-size: 200%;
+}
+
+
+h2 {
+  color: lightblue;
+  margin-left: 20px;
+  font-family: cursive;
+  font-size: 150%;
+}
+
+h3 {
+  color: lightblue;
+  margin-left: 20px;
+  font-family: cursive;
+  font-size: 150%;
+}
+
+h4 {
+  color: lightblue;
+  margin-left: 20px;
+  font-family: cursive;
+  font-size: 150%;
+}
+
+h5 {
+  color: lightblue;
+  margin-left: 20px;
+  font-family: cursive;
+  font-size: 150%;
+}
+
+h6 {
+  color: lightblue;
+  margin-left: 20px;
+  font-family: cursive;
+  font-size: 150%;
+}
+
+p {
+  color: lightblue;
+  margin-left: 20px;
+  font-family: cursive;
+}
